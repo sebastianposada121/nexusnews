@@ -1,0 +1,31 @@
+<section class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+  <div class="mb-8 flex flex-col sm:flex-row sm:items-center justify-between gap-4">
+    <div>
+      <h1 class="text-3xl font-black text-slate-900 tracking-tight">Mis Noticias Favoritas</h1>
+      <p class="text-slate-500 text-sm mt-1">Colección de lecturas guardadas localmente en tu navegador.</p>
+    </div>
+
+    @if (favoriteArticles().length > 0) {
+      <button
+        (click)="clearAll()"
+        class="text-xs font-bold text-rose-600 hover:text-rose-800 bg-rose-50 px-4 py-2 rounded-xl border border-rose-200 transition-colors">
+        Vaciar Favoritos
+      </button>
+    }
+  </div>
+
+  @if (favoriteArticles().length > 0) {
+    <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      @for (article of favoriteArticles(); track article.id) {
+        <app-article-card [article]="article" />
+      }
+    </div>
+  } @else {
+    <app-empty-state
+      icon="star"
+      title="Aún no tienes favoritos"
+      description="Explora nuestro catálogo de noticias y presiona el ícono de estrella para guardarlas aquí."
+      actionLabel="Explorar Noticias"
+      (action)="exploreNews()" />
+  }
+</section>

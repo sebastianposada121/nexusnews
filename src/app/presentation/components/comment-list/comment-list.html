@@ -1,0 +1,13 @@
+<div class="space-y-4">
+  @for (c of comments(); track c.id) {
+    <div class="bg-white p-5 rounded-2xl border border-slate-200">
+      <div class="flex items-center justify-between mb-2">
+        <span class="font-bold text-slate-900 text-sm">{{ c.author }}</span>
+        <span class="text-xs text-slate-400">{{ c.date }}</span>
+      </div>
+      <p class="text-slate-700 text-sm">{{ c.text }}</p>
+    </div>
+  } @empty {
+    <p class="text-sm text-slate-400 italic text-center py-4">Sé el primero en comentar esta noticia.</p>
+  }
+</div>

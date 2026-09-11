@@ -1,0 +1,11 @@
+<div
+  (click)="navigateToCategory()"
+  class="p-5 rounded-2xl bg-white border border-slate-200/80 hover:border-indigo-300 hover:shadow-lg transition-all cursor-pointer group flex flex-col justify-between">
+  <div class="w-12 h-12 rounded-xl flex items-center justify-center text-white mb-4 transition-transform group-hover:scale-110" [class]="category().colorClass">
+    <span class="text-2xl">{{ category().icon }}</span>
+  </div>
+  <div>
+    <h3 class="font-bold text-slate-900 text-base group-hover:text-indigo-600 transition-colors">{{ category().name }}</h3>
+    <p class="text-xs text-slate-500 mt-1">{{ count() }} publicaciones</p>
+  </div>
+</div>

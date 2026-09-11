@@ -1,0 +1,80 @@
+[
+  {
+    "id": "art-1",
+    "title": "Avances Revolucionarios en Inteligencia Artificial y Trabajo en 2026",
+    "category": "Tecnología",
+    "summary": "La integración de modelos de IA generativa está redefiniendo los flujos de trabajo globales y la productividad en diversos sectores industriales.",
+    "content": "La inteligencia artificial ha pasado de ser una herramienta prospectiva a convertirse en la columna vertebral del desarrollo tecnológico contemporáneo. En el presente año, las empresas han adoptado agentes autónomos capaces de automatizar tareas complejas de análisis de datos, programación y generación de contenido, liberando tiempo valioso para el pensamiento crítico y la innovación estratégica.\n\nEspecialistas señalan que la clave radica en la educación continua y el perfeccionamiento de habilidades humanas distintivas como la empatía, el liderazgo ético y la creatividad intercultural.",
+    "image": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&w=800&q=80",
+    "author": "Elena Rostova",
+    "date": "10 de Septiembre, 2026",
+    "readTime": "4 min de lectura",
+    "isFeatured": true,
+    "views": 1420
+  },
+  {
+    "id": "art-2",
+    "title": "Transformación Educativa: Aulas Virtuales con Realidad Inmersiva",
+    "category": "Educación",
+    "summary": "Instituciones educativas implementan espacios de aprendizaje en 3D para potenciar la comprensión en ciencia y la colaboración remota.",
+    "content": "El uso de visores inmersivos e interactivos en instituciones de educación superior ha demostrado un incremento del 40% en la retención de conocimientos complejos. Estudiantes de medicina ahora realizan simulación de procedimientos quirúrgicos en entornos controlados sin riesgos, mientras que estudiantes de historia recorren la antigua Roma en tiempo real.\n\nEsta metodología no solo democratiza el acceso a laboratorios de alta tecnología, sino que conecta a estudiantes de distintas geografías en un único entorno colaborativo.",
+    "image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?auto=format&fit=crop&w=800&q=80",
+    "author": "Carlos Mendoza",
+    "date": "08 de Septiembre, 2026",
+    "readTime": "5 min de lectura",
+    "isFeatured": true,
+    "views": 980
+  },
+  {
+    "id": "art-3",
+    "title": "Rutas Ecoturísticas Sostenibles: Guía de Destinos para 2026",
+    "category": "Turismo",
+    "summary": "Descubre los destinos naturales que lideran la regeneración ambiental y el turismo responsable en América Latina y Europa.",
+    "content": "El turismo responsable se afianza como la tendencia dominante en la industria de viajes. Viajeros de todo el mundo priorizan destinos con certificaciones de huella de carbono neutral, conservación de biodiversidad y beneficio directo para comunidades locales.\n\nDesde senderos poco explorados en parques nacionales hasta hospedajes bioclimáticos energizados con solar, la experiencia del viajero moderno combina el confort consciente con el máximo respeto por el planeta.",
+    "image": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
+    "author": "Sofia Valenzuela",
+    "date": "05 de Septiembre, 2026",
+    "readTime": "6 min de lectura",
+    "isFeatured": true,
+    "views": 2150
+  },
+  {
+    "id": "art-4",
+    "title": "El Auge del Comercio Transfronterizo Digital en el Mercado Global",
+    "category": "Comercio",
+    "summary": "Las pequeñas y medianas empresas triplican sus ventas al exterior utilizando plataformas integradas de pagos inmediatos.",
+    "content": "La eliminación de barreras en pagos digitales y soluciones logísticas automatizadas ha permitido a PYMES competir directamente a nivel global. Plataformas omnicanal conectan inventarios locales con consumidores en cualquier continente en tiempo récord.\n\nLos analistas prevén que este ecosistema digital continuará creciendo a doble dígito, impulsado por transacciones seguras en tiempo real y personalización con Inteligencia Comercial.",
+    "image": "https://images.unsplash.com/photo-1556742049-0a67daf40955?auto=format&fit=crop&w=800&q=80",
+    "author": "Andrés Benítez",
+    "date": "02 de Septiembre, 2026",
+    "readTime": "3 min de lectura",
+    "isFeatured": false,
+    "views": 860
+  },
+  {
+    "id": "art-5",
+    "title": "Ciberseguridad Institucional: Retos y Buenas Prácticas",
+    "category": "Tecnología",
+    "summary": "Estrategias fundamentales de protección de datos ante la rápida evolución de la nube y las redes descentralizadas.",
+    "content": "Con el aumento del volumen de información sensible compartida digitalmente, la ciberseguridad se consolida como pilar operativo crítico. Protocolos de autenticación multifactor, cifrado cuántico e inspección constante de vulnerabilidades son vitales para organizaciones públicas y privadas.\n\nExpertos destacan que la concientización del equipo humano sigue siendo la primera línea de defensa efectiva contra amenazas virtuales.",
+    "image": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?auto=format&fit=crop&w=800&q=80",
+    "author": "Elena Rostova",
+    "date": "28 de Agosto, 2026",
+    "readTime": "4 min de lectura",
+    "isFeatured": false,
+    "views": 1120
+  },
+  {
+    "id": "art-6",
+    "title": "Innovación en Gastronomía Local e Impacto Comercial",
+    "category": "Comercio",
+    "summary": "Restaurantes y productores impulsan cadenas de valor sostenibles resaltando la identidad gastronómica de cada región.",
+    "content": "El concepto del campo a la mesa cobra más fuerza comercial que nunca. Mercados gastronómicos e iniciativas independientes revalorizan insumos originarios, atrayendo a comensales locales y turistas internacionales en busca de experiencias auténticas.",
+    "image": "https://images.unsplash.com/photo-1555396273-367ea4eb4db5?auto=format&fit=crop&w=800&q=80",
+    "author": "Mateo Osorio",
+    "date": "25 de Agosto, 2026",
+    "readTime": "4 min de lectura",
+    "isFeatured": false,
+    "views": 740
+  }
+]
